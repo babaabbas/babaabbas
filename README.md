@@ -7,7 +7,6 @@ I'm Abbas,a college student studying CSE.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
 
 ## Socials📭<br>
 <a href="https:// github.com/babaabbas"><img src="https://img.shields.io/badge/linkendin%20 %20 -4287f5" /></a>
